@@ -5,6 +5,10 @@ namespace Dublettenprüfung
 {
     class Program
     {
+        /// <summary>
+        /// example program
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             String testPath = @"D:\Desktop\dublettentest";
